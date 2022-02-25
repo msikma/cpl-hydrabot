@@ -1,0 +1,11 @@
+{
+  "name": "hydrabot-command-ping",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Test command",
+  "main": "index.js",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

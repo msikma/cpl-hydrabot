@@ -1,0 +1,12 @@
+{
+  "name": "hydrabot-command-login",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Shows a message on login/logout",
+  "main": "index.js",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "hydrabot-db",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Discord bot designed to help run the StarCraft CPL (Coach-Pupil League)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "homepage": "https://github.com/msikma/hydrabot",
+  "repository": "https://github.com/msikma/hydrabot",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "emphasize": "^4.2.0",
+    "better-sqlite3": "^7.4.5",
+    "node-gzip": "^1.1.2",
+    "hydrabot-util": "^0.1.0"
+  }
+}
