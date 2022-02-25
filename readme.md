@@ -4,7 +4,7 @@ A bot designed to help run the [Coach-Pupil League (CPL)](https://liquipedia.net
 
 It's written in Javascript (for Node.js) and uses SQLite for the database.
 
-This project is currently not being actively worked on, but its status is that most of the boilerplate is done.
+This project is far from production-ready and is currently not actively being worked on, but its status is that most of the basic boilerplate is done.
 
 ## Configuration
 
